@@ -16,6 +16,7 @@ Se você tem um computador e quer mandar um arquivo da pasta `A` para a pasta `B
 Nesse caso precisamos mandar o arquivo do computador `A` para o computador `B`, simples, né?
 
 Mas e se tivermos mais aparelhos?
+
 <img src="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work/internet-schema-2.png" alt="Ten computers connected">
 
 Vamos precisar de um fio pra cada conexão? Então se você comprar um computador, vai ter que comprar bilhões de fios pra conectar em todos os compudadores do mundo?
