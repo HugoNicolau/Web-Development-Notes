@@ -23,7 +23,8 @@ Vamos precisar de um fio pra cada conexão? Então se você comprar um computado
 
 **Obviamente não!**
 
-Vamos conectar num aparelho como um roteador e ele vai direcionar as mensagens que queremos pro computador certo:
+Vamos conectar num aparelho como um roteador e ele vai direcionar as mensagens que queremos pro computador certo: 
+
 <img src="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work/internet-schema-3.png" alt="Computers connected by a router">
 
 Imagine esse roteador como um carteiro tentando entregar vários pacotes e, para entregar esses pacotes nos lugares certos, ele precisa dos endereços.
